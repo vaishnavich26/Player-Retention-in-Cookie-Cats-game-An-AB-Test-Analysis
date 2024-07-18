@@ -1,2 +1,2 @@
 # Player-Retention-in-Cookie-Cats-game-An-AB-Test-Analysis
-AB-test on the mobile game Cookie Cats to analyze the impact of moving the first in-game gate from level 30 to level 40 on player retention. Using bootstrap analysis, I examined 1-day and 7-day retention rates for 90,189 players, finding that retention was higher with the gate at level 30, suggesting earlier obstacles improve player engagement.
+Conducted AB-test on the mobile game Cookie Cats to analyze the impact of moving the first in-game gate from level 30 to level 40 on player retention. Using bootstrap analysis, I examined 1-day and 7-day retention rates for 90,189 players, finding that retention was higher with the gate at level 30, suggesting earlier obstacles improve player engagement.
